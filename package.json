@@ -1,12 +1,12 @@
 {
-  "name": "react-ru-tutorial",
+  "name": "react-en-todo",
   "version": "1.0.0",
   "description": "Upscale Academy",
   "main": "index.html",
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Valeria Shpiner",
+  "author": "Dmytro Vergeles",
   "license": "MIT",
   "devDependencies": {
     "express": "^4.15.3"
